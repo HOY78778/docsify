@@ -8,7 +8,7 @@
 ## Members
 🛸 黄欧影
 *这个破地球是一秒钟也呆不下去了*
-
+![](https://raw.githubusercontent.com/HOY78778/picstore/main/Github/img/202210081630614.jpeg)
 🐨 金可成  
 🎸 蔡雪岩  
 🎍 时 尚  
