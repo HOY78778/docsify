@@ -1,4 +1,4 @@
-<!-- 侧边栏 docs/_sidebar.md -->
+<!-- 顶栏 docs/_sidebar.md -->
 - Team Introduce
   - [AboutUs](AboutUs.md)
   - [Members](Members.md)
